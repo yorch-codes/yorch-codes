@@ -1,9 +1,7 @@
-![Banner yorchdigitalmx]()
-
 <h1 align="left">Hi !! I'm Jorge Garcia.</h1>
 <h3 align="left">Web Developer, from México to the World :earth_americas: </h3>
 
-- Actually, I work with: **Astro** :rocket: **Python** :snake: and his Frameworks **Django** & **Flask**, Relational Databases **PostgreSQL** :elephant:, **Microsoft Certified: Azure Fundamentals** :cloud:.
+- Actually, I work with: **Astro** :rocket: **Python** :snake: and **Go**, Relational Databases **PostgreSQL** :elephant:, **Microsoft Certified: Azure Fundamentals** :cloud:.
 
 <h3 align="left">Contact me in my social networks:</h3>
 <p align="left">
