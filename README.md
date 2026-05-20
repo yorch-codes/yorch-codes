@@ -1,4 +1,4 @@
-![Banner yorchdigitalmx](https://res.cloudinary.com/yorchwebs/image/upload/v1772053033/yorchdigitalmx/yorchdigitalmx_-_GitHub_Banner_lqaqeb.png)
+![Banner yorchdigitalmx]()
 
 <h1 align="left">Hi !! I'm Jorge Garcia.</h1>
 <h3 align="left">Web Developer, from México to the World :earth_americas: </h3>
