@@ -1,7 +1,7 @@
 <h1 align="left">Hi !! I'm Jorge Garcia.</h1>
 <h3 align="left">Web Developer, from México to the World :earth_americas: </h3>
 
-- Actually, I work with: **Python** :snake:, Relational Databases **PostgreSQL** :elephant:, **Microsoft Certified: Azure Fundamentals** :cloud:.
+- Actually, I work with: **Python** :snake: and **FastAPI**, Relational Databases **PostgreSQL** :elephant: and  **Docker** :whale2:, **Microsoft Certified: Azure Fundamentals** :cloud:.
 
 <h3 align="left">Contact me in my social networks:</h3>
 <div align="left">
